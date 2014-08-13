@@ -4,10 +4,19 @@
 
 # temp files
 *.tmp
+*.tmp[0-9]*
 *.out
 *.bk
 *.orig
+*.sample.inc.php
+*~
 
 # logs
+*.info
 *.log
 *.log-common
+*.log.[0-9]*.gz
+*.info.[0-9]*.gz
+*.err.[0-9]*.gz
+*.warn.[0-9]*.gz
+*.[0-9]*
