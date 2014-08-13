@@ -1,0 +1,13 @@
+# hidden files
+.*
+!/.gitignore
+
+# temp files
+*.tmp
+*.out
+*.bk
+*.orig
+
+# logs
+*.log
+*.log-common
